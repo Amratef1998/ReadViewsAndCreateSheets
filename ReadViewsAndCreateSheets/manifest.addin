@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>CreateViewsAndSheets</Name>
+		<FullClassName>ReadViewsAndCreateSheets.Command</FullClassName>
+		<Text>place views on sheets  </Text>
+		<Description>This addins will create sheets and place views on them.</Description>
+		<VisibilityMode>AlwaysVisible </VisibilityMode>
+		<Assembly>ReadViewsAndCreateSheets.dll</Assembly>
+		<AddInId>7F273BB5-19CF-44A3-9BDD-D14CE760CA3F</AddInId>
+		<VendorId>Amr</VendorId>
+		<VendorDescription>Amr.as.office@gmail.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
